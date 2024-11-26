@@ -7,10 +7,11 @@ With over 3 years of experience, I’m passionate about building efficient and u
 </div>
 
 ## 🌐 Socials:
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nana-okamoto-428b58318)　
-![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)　
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)　
-![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+You can find me on the following social media platforms or send me an email:<br/>
+- [LinkedIn](www.linkedin.com/in/nana-okamoto-428b58318)
+- [X](https://x.com/na1969na)
+- [Dev.to](https://dev.to/na1969na)
+- nanaokamoto.tech@gmail.com
 
 ---
 
