@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Nana👩‍💻👋</h1>
+  <h1>Hi, I'm Nana👩‍💻<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
 I’m a software developer currently based in Vancouver, Canada, originally from Japan.  
