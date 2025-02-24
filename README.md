@@ -33,7 +33,7 @@ You can find me on the following social media platforms or send me an email:<br/
 
 - **Backend:** <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,supabase)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,postgres,mongodb,supabase)](https://skillicons.dev)<br/>
 
 
 - **Tool**: <br/>
