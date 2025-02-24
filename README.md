@@ -10,17 +10,28 @@ With over 3 years of experience, I’m passionate about building efficient and u
 You can find me on the following social media platforms or send me an email:<br/>
 - [LinkedIn](https://www.linkedin.com/in/nana-okamoto-428b58318/)
 - [Dev.to](https://dev.to/na1969na)
-- nanaokamoto.tech@gmail.com
+- 📩 nanaokamoto.tech@gmail.com
+---
+
+## 👩‍💻 Works:
+**Projects:** <br/>
+- CineBites <br/>
+  GitHub: https://github.com/na1969na/cinebites-app
+- Food del App <br/>
+  GitHub:
+  
+**Articles:**
+- [Simplifying Authentication in React Applications with Clerk](https://dev.to/na1969na/simplifying-authentication-in-react-applications-with-clerk-32db)
 
 ---
 
 ## 💻 Tech Stack:
-- **Frontend**: <br/>
+- **Frontend:** <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,angular,sass,tailwind,materialui)](https://skillicons.dev)<br/>
 
 
-- **Backend**: <br/>
+- **Backend:** <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,supabase)](https://skillicons.dev)<br/>
 
@@ -28,6 +39,8 @@ You can find me on the following social media platforms or send me an email:<br/
 - **Tool**: <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,gitlab,aws,vite,visualstudio,vscode)](https://skillicons.dev)<br/>
+
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=na1969na&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
