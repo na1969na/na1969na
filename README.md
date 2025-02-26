@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi, I'm Nana👩‍💻<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
@@ -13,14 +13,17 @@ You can find me on the following social media platforms or send me an email:<br/
 - 📩 nanaokamoto.tech@gmail.com
 ---
 
-## 👩‍💻 Works:
-**Projects:** <br/>
-- CineBites <br/>
-  GitHub: https://github.com/na1969na/cinebites-app
-- Food del App <br/>
-  GitHub:
+## 👩‍💻 My Side Projects:
+**CineBites** <br/>
+  GitHub: https://github.com/na1969na/cinebites-app <br/>
   
-**Articles:**
+**Food del App** <br/>
+  GitHub:
+
+---
+
+## ✍️ Blog
+**Dev.to**
 - [Simplifying Authentication in React Applications with Clerk](https://dev.to/na1969na/simplifying-authentication-in-react-applications-with-clerk-32db)
 
 ---
