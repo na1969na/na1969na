@@ -16,9 +16,6 @@ You can find me on the following social media platforms or send me an email:<br/
 ## 👩‍💻 My Side Projects:
 **CineBites** <br/>
   GitHub: https://github.com/na1969na/cinebites-app <br/>
-  
-**Food del App** <br/>
-  GitHub:
 
 ---
 
