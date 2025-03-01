@@ -8,7 +8,7 @@ With over 3 years of experience, I’m passionate about building efficient and u
 
 ## 🌐 Socials:
 You can find me on the following social media platforms or send me an email:<br/>
-- [LinkedIn](https://www.linkedin.com/in/nana-okamoto-428b58318/)
+- [LinkedIn](https://www.linkedin.com/in/nana-okamoto/)
 - [Dev.to](https://dev.to/na1969na)
 - 📩 nanaokamoto.tech@gmail.com
 ---
