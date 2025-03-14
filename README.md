@@ -13,7 +13,7 @@ You can find me on the following social media platforms or send me an email:<br/
 - 📩 nanaokamoto.tech@gmail.com
 ---
 
-## 👩‍💻 My Side Projects:
+## 👩‍💻 My Side-Projects:
 **CineBites** <br/>
   GitHub: https://github.com/na1969na/cinebites-app <br/>
 
