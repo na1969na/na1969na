@@ -3,7 +3,7 @@
 
 
 I’m a software developer currently based in Vancouver, Canada, originally from Japan.  
-With over 3 years of experience, I’m passionate about building efficient and user-friendly web applications.<br/>
+With over 4 years of experience, I’m passionate about building efficient and user-friendly web applications.<br/>
 </div>
 
 ## 🌐 Socials:
