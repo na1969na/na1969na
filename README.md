@@ -14,8 +14,13 @@ You can find me on the following social media platforms or send me an email:<br/
 ---
 
 ## 👩‍💻 My Side-Projects:
-**CineBites** <br/>
-  GitHub: https://github.com/na1969na/cinebites-app <br/>
+### FindItNow
+An AI-powered lost-and-found platform that connects seekers with organizations, reduces stress, and saves time.
+
+
+[👉Demo](https://finditnow-app.vercel.app)
+
+
 
 ---
 
