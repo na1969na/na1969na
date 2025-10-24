@@ -2,7 +2,7 @@
   <h1>Hi, I'm Nana👩‍💻<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
-I’m a software developer currently based in Vancouver, Canada, originally from Japan.  
+I’m a software developer from Japan.  
 With over 4 years of experience, I’m passionate about building efficient and user-friendly web applications.<br/>
 </div>
 
