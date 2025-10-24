@@ -14,13 +14,15 @@ You can find me on the following social media platforms or send me an email:<br/
 ---
 
 ## 👩‍💻 My Side-Projects:
-### FindItNow
+## BRIDGE
+An app designed to prevent lonely deaths and ensure the well-being of individuals through daily check-ins.
+
+[👉Repository](https://github.com/na1969na/bridge-app)
+
+## FindItNow
 An AI-powered lost-and-found platform that connects seekers with organizations, reduces stress, and saves time.
 
-
 [👉Demo](https://finditnow-app.vercel.app)
-
-
 
 ---
 
