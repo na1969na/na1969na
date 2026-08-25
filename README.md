@@ -3,12 +3,11 @@
 
 
 I’m a software developer from Japan.  
-With over 4 years of experience, I’m passionate about building efficient and user-friendly web applications.<br/>
+With over 5 years of experience, I’m passionate about building efficient and user-friendly web applications.<br/>
 </div>
 
 ## 🌐 Socials:
 You can find me on the following social media platforms or send me an email:<br/>
-- [LinkedIn](https://www.linkedin.com/in/nana-okamoto/)
 - [Dev.to](https://dev.to/na1969na)
 - 📩 nanaokamoto.tech@gmail.com
 ---
